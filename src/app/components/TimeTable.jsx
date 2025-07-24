@@ -252,7 +252,11 @@ export default function TimeTable() {
                             }`}
                     >
                         <div className="flex justify-between items-center mb-2">
-                            <h2 className="text-xl font-semibold">{details.course_name}</h2>
+                            <h2 className={`text-xl font-semibold ${details.course_type === "Lab"
+                                ? "text-blue-500"
+                                : "text-green-500"
+                                }`}
+                            >{details.course_name}</h2>
                             <span className="text-sm font-mono text-violet-500">{time}</span>
                         </div>
                         <p className="text-sm text-gray-800">
