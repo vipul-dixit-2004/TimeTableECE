@@ -164,11 +164,11 @@ const timetable = {
         },
         "2pm-3pm": {
             "duration": 1,
-            "course_name": "RF and Microwave Engineering",
-            "course_code": "ECT307",
+            "course_name": "MEMS and NEMS",
+            "course_code": "ECT321",
             "course_type": "Theory",
             "venue": "RM-LT6 (Lecture Theatre - 6)",
-            "teacher": "Dr. Chetna Sharma"
+            "teacher": "Dr. Ajay Kumar"
         },
     },
     "friday": {
@@ -182,11 +182,11 @@ const timetable = {
         },
         "11am-12pm": {
             "duration": 1,
-            "course_name": "Operating Systems",
+            "course_name": "Digital MOS IC Design",
             "course_code": "ECT305",
             "course_type": "Theory",
             "venue": "RM-LT6 (Lecture Theatre - 6)",
-            "teacher": "Guest Faculty"
+            "teacher": "Dr. Ashok Kumar Kherodia"
         },
         "12pm-1pm": {
             "duration": 1,
