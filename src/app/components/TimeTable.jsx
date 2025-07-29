@@ -164,12 +164,13 @@ const timetable = {
         },
         "2pm-3pm": {
             "duration": 1,
-            "course_name": "MEMS and NEMS",
-            "course_code": "ECT321",
+            "course_name": "RF and Microwave Engineering",
+            "course_code": "ECT307",
             "course_type": "Theory",
             "venue": "RM-LT6 (Lecture Theatre - 6)",
-            "teacher": "Dr. Ajay Kumar"
+            "teacher": "Dr. Chetna Sharma"
         },
+
     },
     "friday": {
         "9am-11am": {
@@ -203,6 +204,14 @@ const timetable = {
             "course_type": "Theory",
             "venue": "RM-LT6 (Lecture Theatre - 6)",
             "teacher": "Dr. Chetna Sharma"
+        },
+        "2pm-3pm": {
+            "duration": 1,
+            "course_name": "MEMS and NEMS",
+            "course_code": "ECT321",
+            "course_type": "Theory",
+            "venue": "RM-LT6 (Lecture Theatre - 6)",
+            "teacher": "Dr. Ajay Kumar"
         },
     }
 };
