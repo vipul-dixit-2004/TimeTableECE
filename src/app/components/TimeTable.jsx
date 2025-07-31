@@ -120,6 +120,14 @@ const timetable = {
             "venue": "RM-LT6 (Lecture Theatre - 6)",
             "teacher": "Guest Faculty"
         },
+        "3pm-4pm": {
+            "duration": 1,
+            "course_name": "RF and Microwave Engineering",
+            "course_code": "ECT307",
+            "course_type": "Theory",
+            "venue": "RM-LT6 (Lecture Theatre - 6)",
+            "teacher": "Dr. Chetna Sharma"
+        },
         "4pm-6pm": {
             "duration": 2,
             "course_name": "Digital Signal Processing Lab",
